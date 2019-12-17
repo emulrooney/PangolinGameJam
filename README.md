@@ -6,8 +6,6 @@
 
 Project for Mohawk College Game Jam #1, April 2018. Finished game had to somehow incorporate either the given sprite or 3D model of a pangolin. 
 
-Code is pretty rough and void of comments; lots of attributes were public so they could be manually set in the inspector. Once a polished version of the game is ready, a link will be provided here to a separate git repo.
-
 ## Updates
 **December 16 2019**
 * Sky now tints as levels progress; we wanted this in the original version but it didn't make it before.
