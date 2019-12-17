@@ -8,7 +8,16 @@ Project for Mohawk College Game Jam #1, April 2018. Finished game had to somehow
 
 Code is pretty rough and void of comments; lots of attributes were public so they could be manually set in the inspector. Once a polished version of the game is ready, a link will be provided here to a separate git repo.
 
-# Game Rules:
+## Updates
+**December 16 2019**
+* Sky now tints as levels progress; we wanted this in the original version but it didn't make it before.
+* Multiplier now lasts long enough to be useful; it's pretty easy to get to x3 and x4, but you have to be **fast** to get x5 and above.
+* Restart button moved over to not overlap character.
+* Fixed bug on 3rd level where tongue went directly into the earth.
+* Tweaked level boundaries; shouldn't see edges of level off screen and ants should stay closer to centre.
+* Winning no longer shows a weird black void.
+
+### Game Rules:
 1.) Player presses down button to drop the pangolin's tongue.
 
 2.) Player can use WASD to control the tongue to navigate the ant colony.
@@ -22,7 +31,7 @@ Code is pretty rough and void of comments; lots of attributes were public so the
 6.) If you run out of time, the game is over.
 
 
-## Work by:
+### Work by:
 
 [Porsche Le](https://github.com/PorscheLe7) - audio design, main menu
 
