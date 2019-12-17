@@ -35,7 +35,7 @@ Code is pretty rough and void of comments; lots of attributes were public so the
 
 [Porsche Le](https://github.com/PorscheLe7) - audio design, main menu
 
-[Evan Mulrooney](https://dog-eared.github.io) - tongue mechanics, level management, ant movement 
+[Evan Mulrooney](https://emulrooney.github.io) - tongue mechanics, level management, ant movement 
 
 [Jess Nguyen](https://github.com/Jess-Nguy) - timer, audio management
 
