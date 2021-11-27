@@ -1,6 +1,6 @@
 # Pangolin Game Jam Project
 
-[Play the GameJam version.](https://emulrooney.github.io/content/projects/pangolinWebGL/)
+[Play the GameJam version.](https://emulrooney.github.io/assets/content/pangolinWebGL/)
 
 ![Screenshot of Pangolin Dinner](https://raw.githubusercontent.com/dog-eared/PangolinGameJam/master/Screenshot.png)
 
